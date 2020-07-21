@@ -15,5 +15,5 @@ def list_dwarves(array)
   array.each do |dwarf|
     puts "#{count}. #{dwarf}"
     count += 1
-  end 
+  end
 end
